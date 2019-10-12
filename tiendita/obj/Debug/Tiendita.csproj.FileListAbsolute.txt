@@ -1,0 +1,5 @@
+/Users/Charly/Projects/Tiendita/Tiendita/bin/Debug/Tiendita.exe
+/Users/Charly/Projects/Tiendita/Tiendita/bin/Debug/Tiendita.pdb
+/Users/Charly/Projects/Tiendita/Tiendita/obj/Debug/Tiendita.csprojAssemblyReference.cache
+/Users/Charly/Projects/Tiendita/Tiendita/obj/Debug/Tiendita.exe
+/Users/Charly/Projects/Tiendita/Tiendita/obj/Debug/Tiendita.pdb
